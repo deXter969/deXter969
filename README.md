@@ -1,5 +1,5 @@
 ### Hi there 👋
-# I am Puneet Shrivastava
+# I am Puneet Shrivastava😁🧔
 
 <!--
 **deXter969/deXter969** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,3 +15,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## About Me
+
+I am Puneet Shrivastava from India, currently I am a Master of Technology student in Indian Institute of Kanpur. I am a harware engineer, investor, and technology enthusiast. I am passionate in solving problems and finding creative ways to achive goals🥇.
+
+
